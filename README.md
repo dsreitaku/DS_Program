@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 麗澤大学データサイエンスプログラム
 
 You can use the [editor on GitHub](https://github.com/dsreitaku/DS_Program/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
