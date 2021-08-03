@@ -33,7 +33,7 @@
 |3年|機械学習|AI|2||
 |3年|[AIビジネス](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4237202000&P2=2021&P3=20210401)|2||
 |3年|ビッグデータ分析|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2021&P3=20210401)|
-|3年|計量経済学|統計|2|2016年度～2019年度入学者は計量経済学A|
+|3年|計量経済学|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
 
 ## プログラム履修発行条件
 ### リテラシーレベル
