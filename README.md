@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:|---|
 |2年|[データサイエンスの基礎](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4340003001&P2=2021&P3=20210401)|AI|2|2020年度以降入学者のみ履修可|
 |2年|[プログラミング](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2|2016年度～2019年度入学者は[プログラミングA](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4202012001&P2=2021&P3=20210401)またはB |
-|2年|[データベース](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2||
+|2年|[データベース](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4240002000&P2=2021&P3=20210401)|情報|2||
 |2年|[統計学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4032012000&P2=2021&P3=20210401)|統計|2|国際学部対象|
 |2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)|統計|2|2019年度以前入学者は[入門計量経済学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
 |2年|[入門計量経済学B](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155023000&P2=2021&P3=20210401)|統計|2||
@@ -35,7 +35,7 @@
 |3年|ビッグデータ分析|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2021&P3=20210401)|
 |3年|計量経済学|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
 
-## プログラム履修発行条件
+## プログラム履修証明書発行条件
 ### リテラシーレベル
 つぎの条件 1, 2 を満たすこと。
 1. 以下の3科目6単位を取得すること
