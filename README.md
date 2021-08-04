@@ -25,7 +25,7 @@
 |1年|[統計学基礎](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=0582002001&P2=2021&P3=20210401)|統計|2|経済学部対象|
 |1年|[統計学入門](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=0122003000&P2=2021&P3=20210401)|統計|2|外国語学部対象|
 |2年|[データサイエンスの基礎](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4340003001&P2=2021&P3=20210401)|AI|2|2020年度以降入学者のみ履修可|
-|2年|[プログラミング](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2|2016年度～2019年度入学者は[プログラミングA](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4202012001&P2=2021&P3=20210401)またはB |
+|2年|[プログラミング](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2|2016年度～2019年度入学者は[プログラミングA](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4202012001&P2=2021&P3=20210401)、またはプログラミングB |
 |2年|[データベース](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2||
 |2年|[統計学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4032012000&P2=2021&P3=20210401)|統計|2|国際学部対象|
 |2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)|統計|2|2019年度以前入学者は入門計量経済学A|
