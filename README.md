@@ -17,7 +17,6 @@
 科目名をクリックするとシラバスを参照できます。
 ### リテラシーレベル
 
-
 |標準履修年次|科目名|分野|単位数|備考|
 |:---:|:---:|:---:|:---:|---|
 |1年|[AIビジネス入門](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=0121003000&P2=2021&P3=20210401)|AI|2||
@@ -46,8 +45,8 @@
 |3年|[AIビジネス](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4237202000&P2=2021&P3=20210401)|AI|2|
 |3年|ビッグデータ分析|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2021&P3=20210401)|
 |3年|計量経済学|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/Kyoin/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
--
--# リテラシーレベル
+
+### リテラシーレベル
 つぎの条件 1, 2 を満たすこと。
 1. 以下の**3科目6単位**を取得すること
     - AIビジネス入門
