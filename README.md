@@ -17,6 +17,7 @@
 ## データサイエンスプログラム対象科目
 科目名をクリックするとシラバスを参照できます。
 ### リテラシーレベル
+
 |標準履修年次|科目名|分野|単位数|備考|
 |:---:|:---:|:---:|:---:|---|
 |1年|[AIビジネス入門](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=0121003000&P2=2021&P3=20210401)|AI|2||
