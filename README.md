@@ -4,13 +4,13 @@
 
 #### リテラシーレベルの学修目標
 - AI・データサイエンスとは何か、AI・データサイエンスが社会でどのように活用されどのような新しい価値を生んでいるのかを理解する
-- AIの進化が社会に及ぼす影響、AIが得意なこと・苦手なことを理解する
+- AIの進化が社会に及ぼす影響、現在のAIができること・できないことを理解する
 - AI倫理やデータプライバシーに関する課題を理解する
 - 基本的なデータの扱い方を理解する
 
 #### アドバンスドレベルの学修目標
-- リテラシーレベルの知識を基礎に、より発展的な計量経済学、機械学習の手法を理解すること
-- AIを社会課題の解決に応用する手法を理解すること
+- リテラシーレベルの知識を基礎に、より発展的な計量経済学、機械学習の手法を理解する
+- AIを社会課題の解決に応用する手法を理解する
 
 データサイエンス教育推進室はすべての学生がリテラシーレベルを取得することを目標にしています。
 
@@ -28,8 +28,8 @@
 |2年|[データサイエンスの基礎](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4340003001&P2=2021&P3=20210401)|AI|2|2020年度以降入学者のみ履修可|
 |2年|[プログラミング](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2|2016年度～2019年度入学者は[プログラミングA](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4202012001&P2=2021&P3=20210401)、またはプログラミングB |
 |2年|[データベース](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2||
-|2年|[統計学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4032012000&P2=2021&P3=20210401)|統計|2|国際学部対象|
-|2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)|統計|2|2019年度以前入学者は入門計量経済学A|
+|2年|[統計学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4032012000&P2=2021&P3=20210401)|統計|2||
+|2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)（[入門計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155012000&P2=2021&P3=20210920)）|統計|2||
 |2年|[入門計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155023000&P2=2021&P3=20210401)|統計|2||
 
 ### アドバンスドレベル
@@ -39,10 +39,9 @@
 |2年|[データサイエンスの基礎](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4340003001&P2=2021&P3=20210401)|AI|2|2020年度以降入学者のみ履修可|
 |2年|[プログラミング](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4339002001&P2=2021&P3=20210401)|情報|2|2016年度～2019年度入学者は[プログラミングA](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4202012001&P2=2021&P3=20210401)、またはプログラミングB |
 |2年|[データベース](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4240002000&P2=2021&P3=20210401)|情報|2||
-|2年|[統計学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4032012000&P2=2021&P3=20210401)|統計|2|国際学部対象|
-|2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)|統計|2|2019年度以前入学者は[入門計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
+|2年|[入門計量経済学](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=8095002000&P2=2021&P3=20210401)（[入門計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155012000&P2=2021&P3=20210920)）|統計|2||
 |2年|[入門計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155023000&P2=2021&P3=20210401)|統計|2||
-|3年|機械学習|AI|2||
+|3年|[機械学習](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4343003000&P2=2021&P3=20210920)|AI|2||
 |3年|[AIビジネス](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4237202000&P2=2021&P3=20210401)|AI|2|
 |3年|ビッグデータ分析|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2021&P3=20210401)|
 |3年|計量経済学|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2021&P3=20210401)|
