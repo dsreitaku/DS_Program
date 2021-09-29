@@ -63,5 +63,10 @@
 ### アドバンスドレベル
 アドバンスドレベル対象科目から、計量経済学、ビッグデータ分析、機械学習、AI ビジネスのいずれか1科目以上を含む**4科目8単位以上**を取得し，それらの成績の2つ以上が A 評価以上であること。
 
+## 履修証明書発行申請
+以下のフォームから申請をしてください。
+
+[履修証明書発行申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScqEQlmJ_tSLOUGVXL5RN2RYv1vtoSUQuTWA_m5P6bNwlsOxw/viewform?usp=sf_link)
+
 ## 自己点検評価
 2021年度末に実施予定。
