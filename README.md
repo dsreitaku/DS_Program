@@ -43,8 +43,8 @@
 |2年|[入門計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4155023000&P2=2022&P3=20220401)|統計|2||
 |3年|[機械学習](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4343003000&P2=2022&P3=20220920)|AI|2||
 |3年|[AIビジネス](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4237202000&P2=2022&P3=20220401)|AI|2|
-|3年|ビッグデータ分析|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2022&P3=20220401)|
-|3年|計量経済学|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2022&P3=20220401)|
+|3年|[ビッグデータ分析](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4357003000&P2=2022&P3=20220401)|AI|2|2016年度～2019年度入学者は[計量経済学B](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008023010&P2=2022&P3=20220401)|
+|3年|[計量経済学](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008032000&P2=2022&P3=20220401)|統計|2|2016年度～2019年度入学者は[計量経済学A](https://cplan.reitaku-u.ac.jp/public/web/Syllabus/WebSyllabusSansho/UI/WSL_SyllabusSansho.aspx?P1=4008012000&P2=2022&P3=20220401)|
 
 ## 履修証明発行条件
 ### リテラシーレベル
