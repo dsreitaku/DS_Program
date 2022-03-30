@@ -69,4 +69,4 @@
 [履修証明書発行申請フォーム](https://docs.google.com/forms/d/e/1FAIpQLScqEQlmJ_tSLOUGVXL5RN2RYv1vtoSUQuTWA_m5P6bNwlsOxw/viewform?usp=sf_link)
 
 ## 自己点検評価
-2021年度末に実施予定。
+[2021年度自己点検・評価報告書](./R3DSjikotenken.pdf)
